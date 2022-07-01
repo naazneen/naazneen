@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Cloud technologies (AWS and GCP)
+- 🌱 I’m currently learning Web3
+- 👯 I’m looking to collaborate on any Python/Javascript work!
+- 📫 How to reach me: jatunaazneen@gmail.com
+- 📑 Read my blogs on [Stack Abuse](https://stackabuse.com/author/naazneen/)
